@@ -1,0 +1,10 @@
+# Sensitive browser cookies & profiles (DO NOT COMMIT)
+profiles/
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+uploads_ref/
+outputs/
+antigravity_jobs/
+.env
